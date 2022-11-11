@@ -1,0 +1,36 @@
+
+
+body {font-family: "georgia", serif; 
+      background-color: whitesmoke;
+      padding:20px;
+      }
+            
+  h1 {  color:dodgerblue; 
+      font-size: 50px;
+       font-weight:bold;
+       text-align: center; }
+
+  h2 {   color:darkslategray;
+       text-align: center;
+       font-size:28px;}
+ 
+p{color: darkturquoise;
+    text-align: center;
+  font-size:21px;
+    padding:0px 60px 0px 60px;}
+
+ h3 { 
+     color:mediumaquamarine;
+       text-align: center; 
+      font-size: 35px;}
+
+button {align-content: center;
+        align-items: center;}
+
+div {  overflow: hidden;
+    text-align: center;
+    margin: 1px auto;  
+   border: 15px ridge cadetblue;
+    padding: 10px;
+    content: 10px; }
+
